@@ -1,1 +1,1 @@
-More pointyers array strings
+My C 0x07 project
